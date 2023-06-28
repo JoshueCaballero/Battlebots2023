@@ -1,22 +1,18 @@
-# <Título del proyecto> - <Año>
-< Todo lo que esté entre llaves debe ser editado por ustedes y posteriormente eliminado>
-
-< Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
+# FrankBot - 2023
+No te acerques demasiado!
 
 ### Historia del Battlebot
-< Contar la historia de vida de su battlebot.>
+FrankBot surge como una idea de mezclar lo mejor del personaje Frank de Cars y el competidor Minotaur de la liga de Battlebots. Ambos poseen un elemento similar a un rodillo como una característica distintiva. Sin embargo, la agilidad de Minotaur es mucho mejor. Por lo que, Frankbot junta lo mejor de ambos y lo implementa en un battlebot ágil, agresivo y potente.
   
-![Robot Ejemplo](/multimedia/robot_ejemplo.png)
+![Robot Ejemplo](/multimedia/Battlebot exterior.png)
 
 ## Integrantes
-- <Integrante 1> - < Facultad>
-- <Integrante 2> - < Facultad>
-- <Integrante 3> - < Facultad>
-- <Integrante 4> - < Facultad>
-
+- Joshue Caballero - FCFM
+- José Roa - FCFM
 
 ## Descripción del proyecto
-  
+
+  El proyecto se basa en un battlebot de pelea que tenga la capacidad de moverse certera y rápidamente. Para esto ocupamos materiales livianos y distribuimos el peso de la manera más simétrica posible. Para esto,  se consideraron los posibles golpes que este pueda recibir y la repercusión que puede tener en la placa del interior. El resultado es un robot con dos ruedas de 4", dos ruedas "locas" al frente y un rodillo con un estilo de dientes adheridos a este, lo que genera que el arma sea totalmente destructiva.
 ### Estrategia utilizada
   
 #### Ofensiva
