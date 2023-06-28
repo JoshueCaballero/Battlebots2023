@@ -16,10 +16,10 @@ FrankBot surge como una idea de mezclar lo mejor del personaje Frank de Cars y e
 ### Estrategia utilizada
   
 #### Ofensiva
-< Explicar brevemente el arma utilizada.>
+La ofensiva se basa en un eje de válvulas de motor que gira rápidamente y golpea a cualquier elemento que se situé a una distancia cercana a 4 cms. Para esto se utilizó un motor brushless y para la distribución, una correa en V.
 
 #### Defensiva
-< Explicar el modo de defensa del robot.>
+La defensa se basa en una placa de un material resistente, parecido al plástico
 
 ### Diagrama funcional
 < Diagrama de bloques general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
